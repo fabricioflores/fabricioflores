@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! I'm Fabricio Flores
 
-<!--
-**fabricioflores/fabricioflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](https://github.com/fabricioflores.png)
 
-Here are some ideas to get you started:
+I'm a **Software Engineer** from Loja, Ecuador, specializing in frontend development with **Vue** and **Angular**. I'm also passionate about full-stack development using **Node.js** and **Ruby on Rails**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+
+- **Frontend**: Vue.js, Angular
+- **Backend**: Node.js, Ruby on Rails
+- **Others**: Nuxt.js, JavaScript, TypeScript, SCSS
+
+## Featured Projects
+
+- [**houses-nuxt**](https://github.com/fabricioflores/houses-nuxt): Nuxt3 example application.
+- [**cedula-ecuador-ruby**](https://github.com/fabricioflores/cedula-ecuador-ruby): Method for validating Ecuadorian ID and RUC numbers in Ruby.
+
+## Contact
+
+- Blog: [fabricioflores.wordpress.com](https://fabricioflores.wordpress.com)
+- X (formerly Twitter): [@fabricioflores](https://twitter.com/fabricioflores)
+- Instagram: [fabricioflores](https://www.instagram.com/fabricioflores)
+
+Thank you for visiting my profile!
